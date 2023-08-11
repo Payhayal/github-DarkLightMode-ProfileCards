@@ -1,7 +1,7 @@
 class Github {
     constructor() {
-        this.clientId = 'b233371abb0efbe22633';
-        this.clientSecret = '2edcc082d034a4ef915b42de69f1a8301cc87965'
+        this.clientId = 'api number';
+        this.clientSecret = 'api secret number'
         this.perPage = 15;
         this.sort = 'asc';
 
