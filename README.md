@@ -14,9 +14,13 @@ This project was created with HTML, CSS and JAVASCRIPT with github API.
 ![](githubprof.gif)
 
 
+
+
 ##SCREEN VIEW
 
+
 ![](pic1.png)
+
 
 ![](pic2.png)
 
