@@ -8,9 +8,15 @@ This project was created with HTML, CSS and JAVASCRIPT with github API.
 
 *You can also look into the profile and repos in new tab.
 
-##SCREEN VIEW
-![](pic1.png)
-![](pic2.png)
 
 ##SCREEN GIF
+
 ![](githubprof.gif)
+
+
+##SCREEN VIEW
+
+![](pic1.png)
+
+![](pic2.png)
+
